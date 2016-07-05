@@ -156,7 +156,7 @@
 }
 
 @media only screen and (max-width: 768px) {
-    class^="col-" {
+    [class^="col-"] {
         width: 100%;
     }
     div.after {
